@@ -3,8 +3,8 @@
 <h3 align="center">Full-Stack Engineer · Security Nerd · Builder of Things That Probably Shouldn't Exist But Do</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/dinca-cristian-andrei-206452237/?locale=en"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:cristiandinca211@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=c-dinca&color=FF3E3E&style=flat&label=visitors" />
 </p>
 
